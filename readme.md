@@ -20,10 +20,14 @@ The card is fully responsive, has hover effects, and includes a **Read More** bu
 ---
 
 ## 📂 Project Structure
-│-- index.html # Main HTML file
-│-- style.css # Stylesheet (inside <style> in this version)
-│-- kung fu.jpg # Card image
-│-- preview.png # Project preview image (used in README)
+
+```text
+project-root/
+│-- index.html        # Main HTML file  
+│-- style.css         # Stylesheet (inside <style> in this version)  
+│-- kung fu.jpg       # Card image  
+│-- preview.png       # Project preview image (used in README)  
+```
 
 ---
 
